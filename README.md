@@ -1,6 +1,6 @@
 # Candoia app: Null Checks Fixed Files
 
-This app ounts null check fixes of each file
+This app counts null check fixes of each file
 
 in the project. To run add this app to your Candoia installation.
 
